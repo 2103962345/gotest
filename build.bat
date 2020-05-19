@@ -1,3 +1,3 @@
 go build
-.\main.exe
+.\main.go
 go clean
