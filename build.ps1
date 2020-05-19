@@ -4,4 +4,4 @@ Write-Output "PowerShell $($PSVersionTable.PSEdition) version $($PSVersionTable.
 
 Write-Host "Congratulations! Your first script executed successfully"
 #Invoke-Expression "go build $PSScriptRoot\main.go"
-Start-Process -FilePath "C:\Go\bin\go" -ArgumentList "build $PSScriptRoot\main.go" -NoNewWindow
+Start-Process -FilePath "C:\Go\bin\go.exe" -ArgumentList "build $PSScriptRoot\main.go" -NoNewWindow
