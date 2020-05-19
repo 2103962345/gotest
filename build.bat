@@ -1,3 +1,3 @@
-go build
+C:\Go\bin\go build
 .\main.go
-go clean
+C:\Go\bin\go clean
