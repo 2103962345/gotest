@@ -1,3 +1,3 @@
-go build
-.\main.go
-go clean
+go version
+#.\main.go
+#go clean
