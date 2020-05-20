@@ -1,1 +1,1 @@
-C:\Go\bin\go.exe build main.go
+go build main.go
